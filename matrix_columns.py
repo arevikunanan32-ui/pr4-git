@@ -1,4 +1,4 @@
-MAX_DIM = 12
+MAX_DIM = 16
 def get_dimension(name):
     while True:
         raw = input(f"{name} = ").strip()
